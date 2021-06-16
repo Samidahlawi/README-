@@ -30,6 +30,6 @@
  ..... 
  
  
-### Resources & Licences
+### License & Resource
  .....
   
